@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "904700502952",
+    "firebase_url": "https://chat-1360a-default-rtdb.firebaseio.com",
+    "project_id": "chat-1360a",
+    "storage_bucket": "chat-1360a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904700502952:android:4b8411b2131d1176c7b39d",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-LAh4UFOVvBX0blN1kFaAiXMUNvGFtZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
